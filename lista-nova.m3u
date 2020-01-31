@@ -1,0 +1,894 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://minhalista.live/daviduhd" pltv-name="daviduhd" pltv-description="Lista IPTV" pltv-cover="https://minhalista.live/daviduhd" pltv-author="Davi" pltv-email="negoebony@hotmail.com"
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ESPORTE PORTUGAL",ELEVEN SPORTS 1 FHD (Liga dos Campeões)
+http://pdsrv.io:25461/listapass/123456789/30762
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ESPORTE PORTUGAL",ELEVEN SPORTS 1 (Liga dos Campeões)
+http://pdsrv.io:25461/listapass/123456789/30760
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Discovery Turbo H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34885
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ESPORTE PORTUGAL",ELEVEN SPORTS 2 HD (Liga dos Campeões)
+http://pdsrv.io:25461/listapass/123456789/30757
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Disney Channel H265
+http://cms-central.co:80/kaiokaio02/951417943/34883
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Disney Junior H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34882
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ESPORTE PORTUGAL",ELEVEN SPORTS 4 HD (Liga dos Campeões)
+http://pdsrv.io:25461/listapass/123456789/30753
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS DE DOCUMENTÁRIOS",Discovery Channel FHD
+http://cms-central.co:80/kaiokaio02/951417943/6963
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ESPORTE PORTUGAL",ELEVEN SPORTS 5 HD (Liga dos Campeões)
+http://pdsrv.io:25461/listapass/123456789/30752
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS DE VARIEDADES",Discovery H&H FHD
+http://cms-central.co:80/kaiokaio02/951417943/6954
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS INFANTIS",Disney Channel HD *
+http://cms-central.co:80/kaiokaio02/951417943/10833
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS INFANTIS",Disney XD SD
+http://cms-central.co:80/kaiokaio02/951417943/6599
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Fox Life H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34876
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS 4K",ANIMAL PLANET 4K
+http://pdsrv.io:25461/listapass/123456789/33758
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Fox Premium 1 H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/42475
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ENTRETENIMENTO",ANIMAL PLANET FHD (DUAL AUDIO)
+http://pdsrv.io:25461/listapass/123456789/13205
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Fox Premium 2 H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/42474
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ENTRETENIMENTO",ANIMAL PLANET FHD (DUAL AUDIO)
+http://pdsrv.io:25461/listapass/123456789/13205
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Fox Sports 2 H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34875
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ENTRETENIMENTO",Animal Planet HD [Alternativo]
+http://pdsrv.io:25461/listapass/123456789/11079
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Fox Sports H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34874
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS UHD 4K",FOX SPORTS 2 UHD 4K
+http://cms-central.co:80/kaiokaio02/951417943/40785
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FILMES & SÉRIES",FX FHD
+http://cms-central.co:80/kaiokaio02/951417943/28648
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ENTRETENIMENTO",ANIMAL PLANET SD [Alternativo]
+http://pdsrv.io:25461/listapass/123456789/11310
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS DE VARIEDADES",Food Network FHD
+http://cms-central.co:80/kaiokaio02/951417943/16854
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FOX",Fox Life SD *
+http://cms-central.co:80/kaiokaio02/951417943/10816
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Globo News H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34872
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Globo Tv Anhaguera H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34869
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS INFANTIL",BOOMERANG HD
+http://pdsrv.io:25461/listapass/123456789/10294
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS DE VARIEDADES",GNT FHD
+http://cms-central.co:80/kaiokaio02/951417943/28647
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS INFANTIS",Gloob FHD
+http://cms-central.co:80/kaiokaio02/951417943/21128
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS INFANTIS",Gloob FHD
+http://cms-central.co:80/kaiokaio02/951417943/21128
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS 24HRS",Breaking Bad 24hs
+http://pdsrv.io:25461/listapass/123456789/30020
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS DE DOCUMENTÁRIOS",The History Channel FHD *
+http://cms-central.co:80/kaiokaio02/951417943/35434
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS DE DOCUMENTÁRIOS",The History Channel FHD
+http://cms-central.co:80/kaiokaio02/951417943/16844
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",BAND ESPORT
+http://pdsrv.io:25461/listapass/123456789/13210
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS DE DOCUMENTÁRIOS",H2 FHD
+http://cms-central.co:80/kaiokaio02/951417943/7056
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS INFANTIL",CARTOON NETWORK HD
+http://pdsrv.io:25461/listapass/123456789/7817
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS DE DOCUMENTÁRIOS",H2 FHD *
+http://cms-central.co:80/kaiokaio02/951417943/16845
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS HBO",HBO 2 FHD
+http://cms-central.co:80/kaiokaio02/951417943/6953
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS HBO",HBO 2 FHD *
+http://cms-central.co:80/kaiokaio02/951417943/16847
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",HBO H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34864
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS 24HRS",CHAVES 24HS
+http://pdsrv.io:25461/listapass/123456789/33726
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FILMES E SERIES",CINEMAX FHD (DUAL AUDIO)
+http://pdsrv.io:25461/listapass/123456789/10993
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS HBO",HBO Family FHD
+http://cms-central.co:80/kaiokaio02/951417943/28646
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FILMES E SERIES",CINEMAX HD 1
+http://pdsrv.io:25461/listapass/123456789/7802
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FILMES E SERIES",CINEMAX HD*2
+http://pdsrv.io:25461/listapass/123456789/20834
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS HBO",HBO Signature FHD
+http://cms-central.co:80/kaiokaio02/951417943/28644
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FILMES E SERIES",CINEMAX SD3
+http://pdsrv.io:25461/listapass/123456789/4393
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",MAX H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34858
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",MaxPrime H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34857
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ENTRETENIMENTO",DISCOVERY CHANNEL HD3
+http://pdsrv.io:25461/listapass/123456789/6132
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ENTRETENIMENTO",DISCOVERY CHANNEL HD*4
+http://pdsrv.io:25461/listapass/123456789/20824
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ENTRETENIMENTO",DISCOVERY HOME & HEALTH HD*3
+http://pdsrv.io:25461/listapass/123456789/20813
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS INFANTIL",DISCOVERY KIDS FHD (DUAL AUDIO)1
+http://pdsrv.io:25461/listapass/123456789/11532
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS INFANTIL",DISCOVERY KIDS HD2
+http://pdsrv.io:25461/listapass/123456789/7538
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS DE MÚSICAS",MTV Live FHD
+http://cms-central.co:80/kaiokaio02/951417943/28639
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ENTRETENIMENTO",DISCOVERY TURBO HD2
+http://pdsrv.io:25461/listapass/123456789/6877
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS DE VARIEDADES",Mais Globosat FHD
+http://cms-central.co:80/kaiokaio02/951417943/28629
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS INFANTIL",DISNEY CHANNEL FHD (DUAL AUDIO)1
+http://pdsrv.io:25461/listapass/123456789/11546
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ABERTOS",Mega TV FHD
+http://cms-central.co:80/kaiokaio02/951417943/37757
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",National Geographic H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34852
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Discovery Channel H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34891
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Discovery H&H H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34889
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Discovery Kids H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34888
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Discovery Theater H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34886
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",Ei Maxx HD
+https://minhalista.live/channel/1758315/WILLTOP/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS INFANTIL",DISNEY CHANNEL SD*
+http://pdsrv.io:25461/listapass/123456789/20799
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",Ei Maxx HD
+https://minhalista.live/channel/1758315/WILLTOP/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS INFANTIS",Cartoon Network FHD
+http://cms-central.co:80/kaiokaio02/951417943/6965
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",Ei Maxx HD
+https://minhalista.live/channel/1758315/WILLTOP/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FILMES & SÉRIES",Cinemax FHD
+http://cms-central.co:80/kaiokaio02/951417943/28653
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ENTRETENIMENTO",DOG TV HD
+http://pdsrv.io:25461/listapass/123456789/11204
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FILMES & SÉRIES",AXN FHD
+http://cms-central.co:80/kaiokaio02/951417943/6969
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Cinemax H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34894
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Combate H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34893
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",Ei Maxx HD
+https://minhalista.live/channel/1758315/WILLTOP/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS MAX",Max FHD
+http://cms-central.co:80/kaiokaio02/951417943/28641
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS DE DOCUMENTÁRIOS",Animal Planet FHD
+http://cms-central.co:80/kaiokaio02/951417943/6949
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS DE DOCUMENTÁRIOS",Animal Planet FHD *
+http://cms-central.co:80/kaiokaio02/951417943/16876
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",ESPN Extra HD
+https://minhalista.live/channel/1758098/WILLTOP/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",ESPN Extra
+https://minhalista.live/channel/1758093/WILLTOP/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS HBO",HBO FHD
+http://cms-central.co:80/kaiokaio02/951417943/6948
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS HBO",HBO FHD *
+http://cms-central.co:80/kaiokaio02/951417943/16846
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS 24HRS",Desenhos Biblicos 24hs
+http://pdsrv.io:25461/listapass/123456789/33728
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS 24HRS",Desenhos Biblicos 24hs
+http://pdsrv.io:25461/listapass/123456789/33728
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS TELECINE",Telecine Action FHD
+http://cms-central.co:80/kaiokaio02/951417943/6922
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",ESPORTE INTERATIVO BR
+https://minhalista.live/channel/1757335/WILLTOP/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",ESPN +
+https://minhalista.live/channel/1758190/WILLTOP/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS 4K",COMBATE 4K
+http://pdsrv.io:25461/listapass/123456789/33748
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS TELECINE",Telecine Action FHD *
+http://cms-central.co:80/kaiokaio02/951417943/16814
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ESPN",ESPN Extra FHD *
+http://cms-central.co:80/kaiokaio02/951417943/21123
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",Combate HD
+https://minhalista.live/channel/1758176/WILLTOP/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FILMES & SÉRIES",AMC FHD
+http://cms-central.co:80/kaiokaio02/951417943/6970
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",ESPN Brasil HD
+https://minhalista.live/channel/1758088/WILLTOP/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FILMES & SÉRIES",AMC FHD *
+http://cms-central.co:80/kaiokaio02/951417943/35449
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ESPN",ESPN 2 FHD *
+http://cms-central.co:80/kaiokaio02/951417943/26154
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ABERTOS",BAND TV TAROBA PARANA HD
+http://pdsrv.io:25461/listapass/123456789/24924
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ESPN",ESPN Brasil FHD
+http://cms-central.co:80/kaiokaio02/951417943/6958
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ESPN",ESPN Brasil FHD *
+http://cms-central.co:80/kaiokaio02/951417943/16856
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",NFL NOW
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_e.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ESPN",ESPN Extra FHD
+http://cms-central.co:80/kaiokaio02/951417943/17077
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",SPORTV
+https://minhalista.live/channel/714397/Vinycao/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",SPORTV 3
+https://minhalista.live/channel/714398/Vinycao/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FILMES E SERIES",A&E SD*
+http://pdsrv.io:25461/listapass/123456789/20893
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ESPN",ESPN HD *
+http://cms-central.co:80/kaiokaio02/951417943/6591
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",ESPN Brasil HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/165.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ENTRETENIMENTO",Animal Planet HD [Alternativo]
+http://pdsrv.io:25461/listapass/123456789/11079
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",ESPN Extra
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/865.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS SPORTV",SporTV 3 FHD
+http://cms-central.co:80/kaiokaio02/951417943/10371
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",ESPORTE INTERATIVO BR
+https://minhalista.live/channel/714384/Vinycao/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS SPORTV",SporTV 3 FHD *
+http://cms-central.co:80/kaiokaio02/951417943/6916
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",ESPN BR
+https://minhalista.live/channel/714375/Vinycao/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ESPN",ESPN FHD
+http://cms-central.co:80/kaiokaio02/951417943/6932
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",BAND SPORTS
+https://minhalista.live/channel/714373/Vinycao/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",FOX SPORTS 2
+https://minhalista.live/channel/714391/Vinycao/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ESPN",ESPN HD
+http://cms-central.co:80/kaiokaio02/951417943/6587
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",Esporte Interativo 2 HD
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS SPORTV",SporTV FHD *
+http://cms-central.co:80/kaiokaio02/951417943/16821
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",Esporte Interativo 2
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS SPORTV",SporTV HD
+http://cms-central.co:80/kaiokaio02/951417943/6482
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS SPORTV",SporTV 2 FHD
+http://cms-central.co:80/kaiokaio02/951417943/6942
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",FOX SPORTS
+https://minhalista.live/channel/714390/Vinycao/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS SPORTV",SporTV 2 FHD *
+http://cms-central.co:80/kaiokaio02/951417943/16819
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",ESPORTE INTERATIVO
+https://minhalista.live/channel/714386/Vinycao/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS PREMIERE",Premiere Clubes FHD
+http://cms-central.co:80/kaiokaio02/951417943/6938
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",RedBull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS DE ESPORTES",Band Sports FHD*
+http://cms-central.co:80/kaiokaio02/951417943/16879
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS DE ESPORTES",Band Sports HD
+http://cms-central.co:80/kaiokaio02/951417943/10865
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS SBT",SBT HD *
+http://cms-central.co:80/kaiokaio02/951417943/10696
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",Esporte Interativo HD
+https://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?dnt=true&/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS SPORTV",SporTV FHD
+http://cms-central.co:80/kaiokaio02/951417943/6928
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS RECORD TV",Record SP HD
+http://cms-central.co:80/kaiokaio02/951417943/35790
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",SPORTV 3
+https://tinyurl.com/rptgm2t
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS BAND",Band SP FHD
+http://cms-central.co:80/kaiokaio02/951417943/10869
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",OFF
+https://tinyurl.com/shc53h4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS BAND",Band SP HD
+http://cms-central.co:80/kaiokaio02/951417943/6640
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",Combate HD
+http://s1.wsepanel.com:1935/tvgeral/tvgeral/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS BAND",Band SP HD*
+http://cms-central.co:80/kaiokaio02/951417943/35364
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais HBO",Max HD
+https://minhalista.live/channel/1758284/WILLTOP/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV/FECHADA",NASA TV HD
+https://minhalista.live/channel/1762849/Talystvbox/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS RECORD TV",Record SP FHD
+http://cms-central.co:80/kaiokaio02/951417943/35799
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTE",SPORTV 2
+https://tinyurl.com/va2pquq
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="BIG BROTHER BRASIL",BBB HD
+http://cms-central.co:80/kaiokaio02/951417943/59580
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS SBT",SBT FHD
+http://cms-central.co:80/kaiokaio02/951417943/21135
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS GLOBO",Globo SP FHD
+http://cms-central.co:80/kaiokaio02/951417943/35753
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais HBO",HBO Signature HD
+https://minhalista.live/channel/1754759/Macelo3/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS GLOBO",Globo SP FHD *
+http://cms-central.co:80/kaiokaio02/951417943/26162
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Warner Channel H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34823
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS GLOBO",Globo Inter TV Grande Minas FHD
+http://cms-central.co:80/kaiokaio02/951417943/35696
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Woohoo H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/42468
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FILMES & SÉRIES",Warner Channel FHD
+http://cms-central.co:80/kaiokaio02/951417943/6917
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="PREMIERE",PREMIERE 3
+http://cms-central.co:80/kaiokaio02/951417943/16831
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS SBT",SBT FHD
+http://cms-central.co:80/kaiokaio02/951417943/21135
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS GLOBO",Globo Inter TV Alto Litoral FHD
+http://cms-central.co:80/kaiokaio02/951417943/35702
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS TELECINE",Telecine Touch FHD
+http://cms-central.co:80/kaiokaio02/951417943/6924
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="PAY-PER-VIEW",DAZN 4
+http://cms-central.co:80/kaiokaio02/951417943/36920
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="PAY-PER-VIEW",DAZN 5
+http://cms-central.co:80/kaiokaio02/951417943/64246
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="PAY PER VIEW",PAY PER VIEW
+http://cms-central.co:80/kaiokaio02/951417943/28827
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="PAY-PER-VIEW",DAZN 6
+http://cms-central.co:80/kaiokaio02/951417943/64247
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="PREMIERE",PREMIERE 1
+http://cms-central.co:80/kaiokaio02/951417943/6938
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FOX",FOX SPORTS
+http://cms-central.co:80/kaiokaio02/951417943/10364
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="BIG BROTHER BRASIL",BBB 20 CAM01-ACOMPANHE-A-CASA
+http://cms-central.co:80/kaiokaio02/951417943/64237
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="RECORD",RECORD FHD
+http://cms-central.co:80/kaiokaio02/951417943/35799
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="PAY-PER-VIEW",DAZN 2
+http://cms-central.co:80/kaiokaio02/951417943/36993
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="BAND",BAND FHD
+http://cms-central.co:80/kaiokaio02/951417943/10869
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS DE ESPORTES",Band Sports FHD*
+http://cms-central.co:80/kaiokaio02/951417943/16879
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GLOBO",GLOBO FHD
+http://cms-central.co:80/kaiokaio02/951417943/35753
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ESPN",ESPN 2 FHD *
+http://cms-central.co:80/kaiokaio02/951417943/26154
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ESPN",ESPN 2 FHD *
+http://cms-central.co:80/kaiokaio02/951417943/26154
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS SPORTV",SporTV 3 FHD *
+http://cms-central.co:80/kaiokaio02/951417943/6916
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ESPN",ESPN 2 FHD *
+http://cms-central.co:80/kaiokaio02/951417943/26154
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS SPORTV",SporTV FHD *
+http://cms-central.co:80/kaiokaio02/951417943/16821
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS SPORTV",SporTV 3 FHD
+http://cms-central.co:80/kaiokaio02/951417943/10371
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ESPN",ESPN FHD
+http://cms-central.co:80/kaiokaio02/951417943/6932
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ESPN",ESPN HD
+http://cms-central.co:80/kaiokaio02/951417943/6587
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ESPN",ESPN HD *
+http://cms-central.co:80/kaiokaio02/951417943/6591
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS PREMIERE",Premiere Clubes FHD
+http://cms-central.co:80/kaiokaio02/951417943/6938
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS TELECINE",Telecine Premium FHD
+http://cms-central.co:80/kaiokaio02/951417943/6927
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",TNT Séries H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34825
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS TELECINE",Telecine Fun FHD
+http://cms-central.co:80/kaiokaio02/951417943/6923
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS TELECINE",Telecine Pipoca FHD
+http://cms-central.co:80/kaiokaio02/951417943/6925
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Telecine Premium H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34828
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS DE VARIEDADES",TLC FHD
+http://cms-central.co:80/kaiokaio02/951417943/28635
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FILMES & SÉRIES",Space FHD
+http://cms-central.co:80/kaiokaio02/951417943/6934
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FILMES & SÉRIES",Studio Universal HD
+http://cms-central.co:80/kaiokaio02/951417943/6476
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FILMES & SÉRIES",TCM HD
+http://cms-central.co:80/kaiokaio02/951417943/10684
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Telecine Cult H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34831
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS PREMIERE",Premiere Clubes 5 HD
+http://cms-central.co:80/kaiokaio02/951417943/6509
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Sportv 2 H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34837
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Sportv 3 H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34836
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Sportv H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34835
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FILMES & SÉRIES",Sony FHD
+http://cms-central.co:80/kaiokaio02/951417943/16870
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FILMES & SÉRIES",Sony FHD *
+http://cms-central.co:80/kaiokaio02/951417943/35448
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Premiere 7 H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34841
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Premiere Clubes H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34840
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS UHD 4K",PREMIERE CLUBES UHD 4K
+http://cms-central.co:80/kaiokaio02/951417943/28588
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS PREMIERE",Premiere Clubes FHD *
+http://cms-central.co:80/kaiokaio02/951417943/16830
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS PREMIERE",Premiere Clubes 2 FHD *
+http://cms-central.co:80/kaiokaio02/951417943/35425
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS PREMIERE",Premiere Clubes SD
+http://cms-central.co:80/kaiokaio02/951417943/6417
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS INFANTIL",DISNEY JUNIOR HD2
+http://pdsrv.io:25461/listapass/123456789/10286
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS INFANTIL",DISNEY XD HD1
+http://pdsrv.io:25461/listapass/123456789/20791
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS INFANTIL",DISNEY XD HD1
+http://pdsrv.io:25461/listapass/123456789/20791
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS DE DOCUMENTÁRIOS",Nat Geo Wild HD
+http://cms-central.co:80/kaiokaio02/951417943/6526
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Nickelodeon H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34849
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS INFANTIS",Nickelodeon FHD *
+http://cms-central.co:80/kaiokaio02/951417943/35429
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS DE ESPORTES",OFF FHD
+http://cms-central.co:80/kaiokaio02/951417943/16833
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS MAX",Max Prime FHD
+http://cms-central.co:80/kaiokaio02/951417943/6941
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS INFANTIL",DISNEY CHANNEL FHD (DUAL AUDIO)1
+http://pdsrv.io:25461/listapass/123456789/11546
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ABERTOS",Mega TV FHD
+http://cms-central.co:80/kaiokaio02/951417943/37757
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",National Geographic H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34852
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS INFANTIL",DISCOVERY KIDS FHD (DUAL AUDIO)1
+http://pdsrv.io:25461/listapass/123456789/11532
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Multishow H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34853
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ENTRETENIMENTO",DISCOVERY CHANNEL HD3
+http://pdsrv.io:25461/listapass/123456789/6132
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Fox Sports 2
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1006.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",HBO Plus HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/178.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",HBO HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/177.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Max Prime *e HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1184.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Max Prime HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1189.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Max Up HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/188.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",National Geographic HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/185.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Nick Jr. HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1167.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Premiere 4 HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/191.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Premiere Clubes HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/954.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Prime Box Brazil HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1181.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Record
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/947.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Rede TV HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/539.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",SBT HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/494.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",SporTV HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/199.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",SporTV3 HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/198.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Studio Universal HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/982.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",TBS HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1027.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",TCM HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/308.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",TNT
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/903.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",TNT HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/206.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Universal Channel HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/208.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais HBO",HBO 2 HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/175.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais HBO",HBO Signature HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/179.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais HBO",Max HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/875.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Premiere",Combate HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/142.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Premiere",Premiere 2
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/704.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Premiere",Premiere 6 HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/709.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Canais Premiere",Premiere 7 HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/874.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Documentários",Animal Planet HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/151.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Documentários",Animal Planet
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/721.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Documentários",Discovery Theater HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/159.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Documentários",Discovery World HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/161.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Documentários",H2 HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/174.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Documentários",Nat Geo Wild HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/184.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Documentários",National Geographic HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/185.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",ESPN
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/890.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",Ei Maxx HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/163.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",ESPN Brasil HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/165.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",ESPN Extra
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/865.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",ESPN Extra HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/864.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",Fox Sports
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1005.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",Fox Sports 2 HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/171.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",SporTV3
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1002.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Filmes",Prime Box Brazil
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/310.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Variedades",Fox Life HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/170.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",HBO Family
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/261.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",HBO Family HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/176.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",ESPN Brasil HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/165.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",ESPN Brasil HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/165.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Esportes",Fox Sports 2 HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/171.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Infantis",Boomerang
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/223.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Infantis",Boomerang HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1171.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV - Infantis",Discovery Kids HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/915.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS HBO",HBO Family FHD
+http://cms-central.co:80/kaiokaio02/951417943/28646
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS HBO",HBO Signature FHD
+http://cms-central.co:80/kaiokaio02/951417943/28644
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS ENTRETENIMENTO",DISCOVERY HOME & HEALTH HD*3
+http://pdsrv.io:25461/listapass/123456789/20813
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS UHD 4K",PREMIERE CLUBES UHD 4K
+http://cms-central.co:80/kaiokaio02/951417943/28588
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Premiere Clubes H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34840
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS PREMIERE",Premiere Clubes FHD *
+http://cms-central.co:80/kaiokaio02/951417943/16830
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Sportv 2 H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34837
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Sportv 3 H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34836
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Sportv H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34835
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Telecine Fun H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34830
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Telecine Pipoca H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34829
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS SBT",SBT FHD
+http://cms-central.co:80/kaiokaio02/951417943/21135
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",TNT Séries H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34825
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS TELECINE",Telecine Pipoca FHD
+http://cms-central.co:80/kaiokaio02/951417943/6925
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS PREMIERE",Premiere Clubes FHD
+http://cms-central.co:80/kaiokaio02/951417943/6938
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS SPORTV",SporTV FHD
+http://cms-central.co:80/kaiokaio02/951417943/6928
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS SPORTV",SporTV HD
+http://cms-central.co:80/kaiokaio02/951417943/6482
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS SPORTV",SporTV 2 FHD
+http://cms-central.co:80/kaiokaio02/951417943/6942
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS SPORTV",SporTV 3 FHD
+http://cms-central.co:80/kaiokaio02/951417943/10371
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS SPORTV",SporTV 3 FHD *
+http://cms-central.co:80/kaiokaio02/951417943/6916
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS SPORTV",SporTV 2 FHD *
+http://cms-central.co:80/kaiokaio02/951417943/16819
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS SPORTV",SporTV FHD *
+http://cms-central.co:80/kaiokaio02/951417943/16821
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS DE ESPORTES",Band Sports FHD*
+http://cms-central.co:80/kaiokaio02/951417943/16879
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GLOBO",GLOBO FHD
+http://cms-central.co:80/kaiokaio02/951417943/35753
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="RECORD",RECORD FHD
+http://cms-central.co:80/kaiokaio02/951417943/35799
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="PAY-PER-VIEW",DAZN 2
+http://cms-central.co:80/kaiokaio02/951417943/36993
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Warner Channel H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34823
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS H265/HEVC",Discovery H&H H265/HEVC
+http://cms-central.co:80/kaiokaio02/951417943/34889
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV",Globo - RJ
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/139.ts
